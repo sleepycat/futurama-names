@@ -1,6 +1,6 @@
 {
   "name": "futurama-names",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.1-semantically-released",
   "description": "Get random Futurama character names",
   "main": "dist/index.js",
   "scripts": {
