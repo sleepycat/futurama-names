@@ -7,7 +7,7 @@ export default {
   output: {
     path: join(__dirname, 'dist'),
     libraryTarget: 'umd',
-    library: 'starWarsNames',
+    library: 'futuramaNames',
   },
   devtool: 'source-map',
   module: {
